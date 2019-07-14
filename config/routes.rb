@@ -4,5 +4,5 @@ Rails.application.routes.draw do
 end
 
 Rails.application.routes.draw do
-  root 'application#hello'
+  root 'application#goodbye'
 end
